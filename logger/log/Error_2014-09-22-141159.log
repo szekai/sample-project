@@ -1,0 +1,2 @@
+2014-09-22 14:11:59.571 [FATAL] sky.logger.Log4j:23 - this is fatal
+2014-09-22 14:11:59.578 [ERROR] sky.logger.MyApp1:35 - throw error

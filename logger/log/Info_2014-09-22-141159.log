@@ -1,0 +1,6 @@
+2014-09-22 14:11:59.567 [INFO] sky.logger.MyApp1:21 - Entering application.
+2014-09-22 14:11:59.570 [DEBUG] sky.logger.CommonLogging:20 - Did it again!
+2014-09-22 14:11:59.571 [DEBUG] sky.logger.Log4j:19 - Did it again!
+2014-09-22 14:11:59.571 [FATAL] sky.logger.Log4j:23 - this is fatal
+2014-09-22 14:11:59.578 [ERROR] sky.logger.MyApp1:35 - throw error
+2014-09-22 14:11:59.578 [INFO] sky.logger.MyApp1:36 - Exiting application.

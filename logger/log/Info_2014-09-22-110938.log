@@ -1,0 +1,2 @@
+2014-09-22 11:09:38.836 [DEBUG] sky.logger.Log4j:19 - Did it again!
+2014-09-22 11:09:38.838 [FATAL] sky.logger.Log4j:23 - this is fatal
